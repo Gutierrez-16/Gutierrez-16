@@ -21,7 +21,10 @@
 [![Html 5](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=html%205&logo=html5&labelColor=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![Css 3](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=css%203&logo=css3&labelColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
 [![Python](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=python&logo=python&labelColor=3776AB)](https://www.python.org)
-[![Java](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=java&logo=java&labelColor=007396)](https://www.java.com)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![SQLServer](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=sqlserver&logo=microsoft-sql-server&labelColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=mongodb&logo=mongodb&labelColor=47A248)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=mysql&logo=mysql&labelColor=4479A1)](https://www.mysql.com/)
 
 <img height="100" />
 
