@@ -3,7 +3,7 @@
   <img width="250" src="./shujaa.jpeg")
 "/>
   
-  <h1> 👋Shujaa</h1>
+  <h1>👋Shujaa</h1>
   <p>
     Welcome.<br/>
     I'm Alexis Gutierrez, a boy who learns very quickly. <br/>
