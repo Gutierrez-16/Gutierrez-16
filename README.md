@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="250" src="./shujaa.jpeg")
+  <img width="250" src="./shujaa.png")
 "/>
   
   <h1>👋Shujaa</h1>
