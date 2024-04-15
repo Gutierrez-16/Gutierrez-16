@@ -3,10 +3,10 @@
   <img width="250" src="./shujaa.jpeg")
 "/>
   
-  <h1>Hi there 👋Gutierrez</h1>
+  <h1>Hi there 👋Shujaa</h1>
   <p>
     Welcome.<br/>
-    I'm Gutierrez, a boy who learns very quickly. <br/>
+    I'm Alexis Gutierrez, a boy who learns very quickly. <br/>
     2+ years Developer Experience. <br/>
     🦀 Cybersecurity 🦀 <br/>
     💻 Compilers 💻 <br/>
