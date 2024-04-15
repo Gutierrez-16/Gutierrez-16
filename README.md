@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="250" src="https://github.com/Gutierrez-16/Gutierrez-16/assets/153398359/d51b2787-ffc7-419d-b8ef-b87e0f3ca1cb")
+  <img width="250" src="./shujaa.jpeg")
 "/>
   
   <h1>Hi there 👋Gutierrez</h1>
