@@ -9,7 +9,7 @@
     I'm Alexis Gutierrez, a boy who learns very quickly. <br/>
     2+ years Developer Experience. <br/>
     🐧 Cybersecurity 🐧 <br/>
-    💻 Compilers 💻 <br/>
+    💻 Pentester 💻 <br/>
   </p>
 </div>
 
