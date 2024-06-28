@@ -43,8 +43,8 @@
 ## Editors
 <img align="right" width="250" src="https://codicow.net/_next/static/media/1.f88fa2bf.svg" />
 
-[![Visual Studio Code](https://img.shields.io/static/v1?message=Actual&label=vscode&style=for-the-badge&logo=visualstudiocode&labelColor=007ACC)](https://code.visualstudio.com)
-[![Neovim/Vim](https://img.shields.io/static/v1?message=-&logoColor=white&label=nvim&style=for-the-badge&logo=neovim&labelColor=57A143)](https://neovim.io)
+[![Visual Studio Code](https://img.shields.io/static/v1?message=-&label=vscode&style=for-the-badge&logo=visualstudiocode&labelColor=007ACC)](https://code.visualstudio.com)
+[![Neovim/Vim](https://img.shields.io/static/v1?message=Actual&logoColor=white&label=nvim&style=for-the-badge&logo=neovim&labelColor=57A143)](https://neovim.io)
 [![IntelliJ IDEA](https://img.shields.io/static/v1?message=-&logoColor=white&label=intellij%20idea&style=for-the-badge&logo=intellij-idea&labelColor=000000)](https://www.jetbrains.com/idea/)
 [![NetBeans](https://img.shields.io/static/v1?message=-&logoColor=white&label=netbeans&style=for-the-badge&logo=apache-netbeans-ide&labelColor=1B6AC6)](https://netbeans.apache.org/)
 
