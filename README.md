@@ -26,6 +26,8 @@
 [![MongoDB](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=mongodb&logo=mongodb&labelColor=47A248)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=mysql&logo=mysql&labelColor=4479A1)](https://www.mysql.com/)
 [![Bash](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=bash&logo=gnu-bash&labelColor=4EAA25)](https://www.gnu.org/software/bash/)
+[![SQLite](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=sqlite&logo=sqlite&labelColor=003B57)](https://www.sqlite.org)
+
 
 
 <img height="100" />
