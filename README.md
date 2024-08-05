@@ -51,6 +51,7 @@
 [![Neovim/Vim](https://img.shields.io/static/v1?message=Actual&logoColor=white&label=nvim&style=for-the-badge&logo=neovim&labelColor=57A143)](https://neovim.io)
 [![IntelliJ IDEA](https://img.shields.io/static/v1?message=-&logoColor=white&label=intellij%20idea&style=for-the-badge&logo=intellij-idea&labelColor=000000)](https://www.jetbrains.com/idea/)
 [![NetBeans](https://img.shields.io/static/v1?message=-&logoColor=white&label=netbeans&style=for-the-badge&logo=apache-netbeans-ide&labelColor=1B6AC6)](https://netbeans.apache.org/)
+[![Android Studio](https://img.shields.io/static/v1?message=-&logoColor=white&label=android%20studio&style=for-the-badge&logo=android-studio&labelColor=3DDC84)](https://developer.android.com/studio)
 
 <img height="100" />
 
